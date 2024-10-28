@@ -52,6 +52,18 @@
               "icon": "lucide-file-text",
               "title": "# M20 Core Mage - 20th Anniversary Edition"
             }
+          },
+          {
+            "id": "3faf584d72e93b73",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "# M20 - Books of Secrets.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "# M20 - Books of Secrets"
+            }
           }
         ]
       }
@@ -196,8 +208,11 @@
   },
   "active": "68d083c4b7830d38",
   "lastOpenFiles": [
+    "# M20 - Books of Secrets.pdf",
     "Ethyl.md",
     "# M20 Core Mage - 20th Anniversary Edition.pdf",
+    "# M20 How Do You DO That.pdf",
+    "#M20 Technocracy Reloaded.pdf",
     "Templates/Mage.md",
     "Templates/Human.md",
     "Templates"

@@ -43,7 +43,7 @@ Paradox: ??
 Belief: A World of Gods and Monsters
 Practice: Chaos Magick
 Tools:
-- Drugs and Poisons: Personalized, A bottle of bourbon
+- Drugs and Poisons: Personalized, Whiskey
 - Books, Scrolls, and Periodicals
 - Laboratories and Lab Gear
 - Brews, Potions, Powders, and Other Concoctions
@@ -63,8 +63,8 @@ Willpower 5
 1+3->Dexterity
 1+4->Stamina
 #### Social (Tertiary for 5)
-1+1->Charisma
-1+0->Manipulation
+1+0->Charisma
+1+1->Manipulation
 1+4->Appearance
 
 #### Mental (Primary for 10)
@@ -102,6 +102,17 @@ Willpower 5
 4 ->Matter
 3 -> Prime
 3 -> Correspondence
-
 ## Freebie Points (30)
+
+### Flaws (7)
+4 -> Enemy (The Technocracy: The Progenitors)
+2 -> Icy
+1 -> Addiction (Being not sober)
+
+### Purchases (37)
 3 -> Resources (Background)
+2 -> Unaging
+5 -> 10 Willpower (5)
+3 -> 5 Science (Chemistry) (4)
+3 -> 5 Pharmacopeia (Mind-Altering Substances) (4)
+
