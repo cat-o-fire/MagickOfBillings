@@ -1,5 +1,5 @@
 # Primary
-Nature: ??
+Nature: Survivor
 Demeanor: ??
 ## Merits
 
@@ -81,22 +81,22 @@ Willpower 5
 3 -> Drive
 3 -> Firearms
 3 -> Research
-3 -> Crafts (Weaponsmith)
-1 -> Crafts (Vehicles)
+2 -> Crafts (Weaponsmith)
+2 -> Crafts (Vehicles)
 #### Knowledges (Primary for 20)
+1 -> Enigmas
+1 -> Politics
 3 -> Esoterica
 3 -> Occult
 3 -> Medicine
 3 -> Science (Chemistry)
-3 -> Pharmacopeia
 3 -> Investigation
-2 -> Enigmas
+3 -> Academics
 ### Backgrounds (14)
 5 -> Cloaking
 5 -> Avatar
-2 (4) -> Sanctum
-1 -> Node
-? -> Library
+1 (2) -> Sanctum
+2 -> Universal Neutralizer Device
 ### Spheres (13)
 3 -> Life (Affinity)
 4 ->Matter
@@ -104,15 +104,30 @@ Willpower 5
 3 -> Correspondence
 ## Freebie Points (30)
 
-### Flaws (7)
-4 -> Enemy (The Technocracy: The Progenitors)
+### Flaws (+7)
+4 -> Hit List (The Technocracy: The Progenitors)
 2 -> Icy
 1 -> Addiction (Being not sober)
-
-### Purchases (37)
-3 -> Resources (Background)
+2 -> Curiosity
+1 -> Overconfident
+1/3 -> Offline
+4 -> Probationary Member
+**Total of 11 + 2 if offline counts for 3 + 4 if Hit List Counts**
+### Merits (17)
 2 -> Unaging
+2 -> Alcohol and Drug Tolerance
+2 -> Poison Resistance
+1 -> Expert Driver
+1 -> Concentration
+3 -> Scientific Mystic
+3 -> Manifest Avatar
+3 -> Hyperfocus
+### Other (20)
+1 -> Allies (Avatar)
+2 -> Resources (Background) (2)
+1 -> Node (Background) (1)
 5 -> 10 Willpower (5)
 3 -> 5 Science (Chemistry) (4)
-3 -> 5 Pharmacopeia (Mind-Altering Substances) (4)
-
+3 -> 5 Medicine (Pharmacopeia) (4)
+3 -> 4 Crafts (Weaponsmith) (2)
+1 -> Crafts specialty (Vehicles) (1)
