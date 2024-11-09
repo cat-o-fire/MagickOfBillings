@@ -1,6 +1,6 @@
 # Primary
-Nature: Survivor
-Demeanor: ??
+Nature: ??
+Demeanor: Survivor
 ## Merits
 
 ## Flaws
@@ -36,10 +36,10 @@ Wits: 5
 ### Spheres
 
 ## Advantages
-Willpower: ??
+Willpower: 10
 ### Magic
-Arete: ??
-Paradox: ??
+Arete: 4
+Paradox: 0
 Belief: A World of Gods and Monsters
 Practice: Chaos Magick
 Tools:
@@ -48,7 +48,26 @@ Tools:
 - Laboratories and Lab Gear
 - Brews, Potions, Powders, and Other Concoctions
 - Household Tools
+#### Adjustments and Procedures
 
+**Irish Exit**
+Correspondence 3
+Get to drunk, find an alley, pass out, wakeup at home
+
+**Very Sharp Painted Nails**
+Life 3 or 4/Matter 3
+As with talons
+
+**Ethyl's Bag That Might Contain Anything**
+Matter 2, 3 or 4/Prime 2
+Sometimes you need a specific thing. 
+Sometimes you have bag that you don't remember packing. 
+
+**Drink the Problem Away**
+Life 2 or 3
+
+
+**??**
 # Expenditure Log
 
 ## Base
@@ -81,8 +100,8 @@ Willpower 5
 3 -> Drive
 3 -> Firearms
 3 -> Research
-2 -> Crafts (Weaponsmith)
-2 -> Crafts (Vehicles)
+3 -> Crafts (Weaponsmith)
+1 -> Stealth
 #### Knowledges (Primary for 20)
 1 -> Enigmas
 1 -> Politics
@@ -90,8 +109,11 @@ Willpower 5
 3 -> Occult
 3 -> Medicine
 3 -> Science (Chemistry)
-3 -> Investigation
+1 -> Investigation
 3 -> Academics
+1 -> Subdimensions
+1 -> Law
+
 ### Backgrounds (14)
 5 -> Cloaking
 5 -> Avatar
