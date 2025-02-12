@@ -1,15 +1,29 @@
 # Primary
-Nature: ??
+Nature: Crusader (Protect the unenlightened from the supernatural)
 Demeanor: Survivor
 ## Merits
-
+Unaging (2)
+Alcohol and Drug Tolerance (2)
+Poison Resistance (2)
+Expert Driver (1)
+Concentration (1)
+Scientific Mystic (3)
+Manifest Avatar (3)
+Hyperfocus (3)
 ## Flaws
-
+Hit List (The Technocracy: The Progenitors) (4)
+Icy (2)
+Addiction (Being not sober) (1)
+Curiosity (2)
+Overconfident (1)
+Offline (1)
+Probationary Member (4)
 # Story Notes
 Ex [[The Progenitors|Progenitor]], maybe helped by [[The Sisters of Hippolyta]] 
 ## Weaknesses
-- ??
-## Avatar
+- such a raging bitch
+- also does so much illegal shit
+- also defiantly a war criminal
 ## Relationships
 # Statistics
 
@@ -29,25 +43,54 @@ Intelligence: 5
 Wits: 5
 ## Abilities
 ### Talents
-
+Alertness: 3
+Awareness: 3
+Streetwise: 3
 ### Skills
-
+Drive: 3
+Firearms: 3
+Research: 3
+Crafts (Weaponsmith, Vehicles): 4
+Stealth: 1
 ### Knowledges
-### Spheres
-
+Enigmas: 3
+Politics: 3
+Esoterica: 3
+Occult: 3
+Medicine: 5 (Pharmacopeia)
+Science (Chemistry): 5
+Investigation: 3
+Academics: 3
+Subdimensions: 3
+Law: 3
 ## Advantages
 Willpower: 10
+#### Backgrounds
+Cloaking: 5
+Avatar: 5
+Sanctum: 1
+Universal Neutralizer Device: 2
+Allies (Avatar): 1 
+Node: 1
+Resources: 2
 ### Magic
 Arete: 4
 Paradox: 0
 Belief: A World of Gods and Monsters
 Practice: Chaos Magick
+Spheres:
+- Life: 3 (Affinity)
+- Matter: 4
+- Prime 3
+- Correspondence 3
 Tools:
 - Drugs and Poisons: Personalized, Whiskey
 - Books, Scrolls, and Periodicals
 - Laboratories and Lab Gear
 - Brews, Potions, Powders, and Other Concoctions
 - Household Tools
+#### Avatar
+Essence: [[Primodial]]
 #### Adjustments and Procedures
 
 **Irish Exit**
@@ -66,7 +109,8 @@ Sometimes you have bag that you don't remember packing.
 **Drink the Problem Away**
 Life 2 or 3
 
-
+**Adelard Dekker's Universal Solution**
+![[tumblr_49341e3c6fe6e9ef51f1896b011cb123_40a1590a_2048.jpg]]
 **??**
 # Expenditure Log
 
@@ -88,8 +132,8 @@ Willpower 5
 
 #### Mental (Primary for 10)
 1+2->Perception
-1+4->Intelligence
-1+4->Wits
+1+4->Intelligence 
+1+4->Wits 
 
 ### Abilities
 #### Talents (Tertiary for 9)
@@ -99,7 +143,7 @@ Willpower 5
 #### Skills (Secondary for 13)
 3 -> Drive
 3 -> Firearms
-3 -> Research
+3 -> Research 
 3 -> Crafts (Weaponsmith)
 1 -> Stealth
 #### Knowledges (Primary for 20)

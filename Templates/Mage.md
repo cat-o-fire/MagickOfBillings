@@ -9,8 +9,6 @@ Demeanor: ??
 
 ## Weaknesses
 - ??
-## Avatar
-**Essence:** ??
 ## Relationships
 # Statistics
 
@@ -34,9 +32,19 @@ Wits: ??
 ### Skills
 
 ### Knowledges
-### Spheres
 
 ## Advantages
 Willpower: ??
+### Backgrounds
+### Magic
 Arete: ??
-Paradox: ??
+Paradox: 0
+Belief: A World of Gods and Monsters
+Practice: Chaos Magick
+Spheres:
+- ??
+Tools:
+- ??
+#### Avatar
+Essence: ??
+#### Rotes
