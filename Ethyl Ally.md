@@ -23,7 +23,7 @@ Ex [[The Progenitors|Progenitor]], maybe helped by [[The Sisters of Hippolyta]]
 ## Weaknesses
 - such a raging bitch
 - also does so much illegal shit
-- also defiantly a war criminal
+- also definitely a war criminal
 ## Relationships
 # Statistics
 
@@ -34,8 +34,8 @@ Strength: 2
 Dexterity: 4
 Stamina: 5
 ### Social
-Charisma: 2
-Manipulation: 1
+Charisma: 1
+Manipulation: 2
 Appearance: 5
 ### Mental
 Perception: 3
