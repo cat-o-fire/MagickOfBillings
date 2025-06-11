@@ -70,7 +70,7 @@ Cloaking: 5
 Avatar: 5
 Sanctum: 1
 Universal Neutralizer Device: 2
-Allies (Avatar): 1 
+Allies (Avatar): 1
 Node: 1
 Resources: 2
 ### Magic
@@ -108,7 +108,11 @@ Sometimes you have bag that you don't remember packing.
 
 **Drink the Problem Away**
 Life 2 or 3
+**Manufacture Enlightened Drugs**
+Life 3/Matter 3/Prime 3
+> This Procedure allows for the creation of Enlightened [[Ethyl's Pharmacy|drugs]]. The creation of such a drug requires five points of Prime Energy for each dose, which is transferred to the drug’s user. See below for some of the drugs that can be crafted.
 
+[[MtA - Convention Book - Progenitors.pdf#page=74&selection=322,0,328,58|MtA - Convention Book - Progenitors, page 74]]
 **Adelard Dekker's Universal Solution**
 ![[tumblr_49341e3c6fe6e9ef51f1896b011cb123_40a1590a_2048.jpg]]
 **??**

@@ -6,7 +6,7 @@
       {
         "id": "299f19ca65f65fdb",
         "type": "tabs",
-        "dimension": 11.933174224343675,
+        "dimension": 32.21957040572792,
         "children": [
           {
             "id": "ac3368d36a778c05",
@@ -39,7 +39,7 @@
       {
         "id": "775d34f1d47cf8df",
         "type": "tabs",
-        "dimension": 88.06682577565633,
+        "dimension": 67.78042959427208,
         "children": [
           {
             "id": "68d083c4b7830d38",
@@ -47,10 +47,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "# M20 Core Mage - 20th Anniversary Edition.pdf"
+                "file": "MtA - Convention Book - Progenitors.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "# M20 Core Mage - 20th Anniversary Edition"
+              "title": "MtA - Convention Book - Progenitors"
             }
           },
           {
@@ -90,7 +90,7 @@
             }
           },
           {
-            "id": "f6da75df777a4d81",
+            "id": "1cb0bbe0375510e4",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -101,7 +101,8 @@
               "title": "# M20 Core Mage - 20th Anniversary Edition"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,14 +244,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68d083c4b7830d38",
+  "active": "ac3368d36a778c05",
   "lastOpenFiles": [
-    "# M20 - Books of Secrets.pdf",
-    "# M20 Core Mage - 20th Anniversary Edition.pdf",
-    "Ethyl Ally.md",
-    "The Sisters of Hippolyta.md",
     "# M20 How Do You DO That.pdf",
+    "# M20 Core Mage - 20th Anniversary Edition.pdf",
+    "# M20 - Books of Secrets.pdf",
     "#M20 Technocracy Reloaded.pdf",
+    "Ethyl Ally.md",
+    "MtA - Convention Book - Progenitors.pdf",
+    "Ethyl's Pharmacy.md",
+    "The Sisters of Hippolyta.md",
     "Templates/Mage.md",
     "Templates/Human.md",
     "tumblr_49341e3c6fe6e9ef51f1896b011cb123_40a1590a_2048.jpg",
